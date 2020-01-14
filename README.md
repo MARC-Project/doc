@@ -1,6 +1,7 @@
 Mini Auto Race Car (MARC) Project
 =========
-
+  
+![MARC](https://github.com/MARC-Project/doc/blob/master/MARC.png)
 The MARC project is a project aiming at developing a 1/24 scale smart car model as a powerful tool for academic research and education. It lauched since June 2019, and the project is still developing. If you need more information about MARC, contact the director via email tllam@cuhk.edu.cn.
 
 |Author|Huang Tianjian|
